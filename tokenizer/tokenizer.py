@@ -1,7 +1,6 @@
 import spacy
 
 nlp = spacy.load('en_core_web_sm')
-type(nlp)
 
 # Sample sentence.
 s = "He didn't want to pay $20 for this book."
